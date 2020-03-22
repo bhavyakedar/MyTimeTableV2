@@ -1,0 +1,46 @@
+<resources>
+    <string name="app_name">MyTimeTable</string>
+    <string-array name="main_menu">
+        <item>Lecture and Lab Time-Table</item>
+        <item>Syllabus</item>
+        <item>Faculty Info</item>
+        <item>College Calendar</item>
+    </string-array>
+    <string-array name="days">
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+    </string-array>
+    <string-array name="Monday">
+        <item>Discrete Mathematics SC205 09:00 AM</item>
+        <item>Data Structures IT205 10:00 AM</item>
+        <item>Approaches To Indian Society HM106 11:00 AM</item>
+        <item>Data Structures LAB 01:30 PM</item>
+    </string-array>
+    <string-array name="Tuesday">
+        <item>Communication Technology CT111 09:00 AM</item>
+        <item>Digital Logic Designing EL114 10:00 AM</item>
+        <item>Approaches To Indian Society HM106 11:00 AM</item>
+        <item>Digital Logic Designing LAB 02:00 PM</item>
+    </string-array>
+    <string-array name="Wednesday">
+        <item>Digital Logic Designing EL114 09:00 AM</item>
+        <item>Discrete Mathematics SC205 10:00 AM</item>
+        <item>Data Structures IT205 11:00 AM</item>
+        <item>Communication Technology LAB 02:00 PM</item>
+    </string-array>
+    <string-array name="Thursday">
+        <item>Communication Technology 09:00 AM</item>
+        <item>Approaches To Indian Society HM106 10:00 AM</item>
+        <item>Data Structures IT205 11:00 AM</item>
+        <item>FREE FREE FREE</item>
+    </string-array>
+    <string-array name="Friday">
+        <item>Digital Logic Designing EL114 09:00 AM</item>
+        <item>Communication Technology CT111 10:00 AM</item>
+        <item>Discrete Mathematics SC205 11:00 AM</item>
+        <item>Discrete Mathematics TUTORIAL 02:00 PM</item>
+    </string-array>
+</resources>
