@@ -16,8 +16,6 @@ public class Syllabus extends AppCompatActivity {
         setContentView(R.layout.activity_syllabus);
         ListView subjects = findViewById(R.id.subjects);
         ArrayList<String> arrayList = new ArrayList<String>();
-        arrayList.add("");
-        arrayList.add("");
         arrayList.add("CT - All Lecture Slides + Lab PDFs + Project + Assignments + Overall Evaluation");
         arrayList.add("EL - Base Conversions and Associated Boolean algebra And Arithmetic, Logic Gates and their production from Transistors,Diodes and MOS, K-Maps, Idiotic out-of-syllabus MCQs");
         arrayList.add("SC - Syllabus between 2nd insem to endsem");
